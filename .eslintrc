@@ -9,6 +9,9 @@
     "plugin:@typescript-eslint/recommended"
   ],
   "rules": {
-    "no-console": "off"
+    "no-console": "off",
+    "max-len": ["error", 150],
+    "no-shadow": "off",
+    "@typescript-eslint/no-shadow": ["error"]
   }
 }
