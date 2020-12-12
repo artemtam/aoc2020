@@ -11,6 +11,7 @@
     "day-9": "ts-node day-09",
     "day-10": "ts-node day-10",
     "day-11": "ts-node day-11",
+    "day-12": "ts-node day-12",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint --fix ./day-*/*.ts"
   },

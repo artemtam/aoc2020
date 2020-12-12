@@ -12,6 +12,7 @@
     "no-console": "off",
     "max-len": ["error", 150],
     "no-shadow": "off",
-    "@typescript-eslint/no-shadow": ["error"]
+    "@typescript-eslint/no-shadow": ["error"],
+    "max-classes-per-file": "off"
   }
 }
